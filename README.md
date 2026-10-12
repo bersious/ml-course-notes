@@ -1,6 +1,6 @@
 # Machine Learning Course Notes
 
-Personal repository for my practice work in the Machine Learning course at UIT: exercises, notebooks and small experiments, organized by session.
+Personal repository for my practice work in the Machine Learning course taught by PGS.TS Nguyen Tan Tran Minh Khang at UIT: exercises, notebooks and small experiments, organized by session.
 
 Course slides and third-party datasets are not redistributed here. Sources are cited where they are used.
 
@@ -29,4 +29,4 @@ jupyter notebook
 
 ## Author
 
-**Nguyen Thanh Thien Nhan (bersious)**, Computer Science, UIT
+**Nguyen Thanh Thien Nhan (bersious)**, Artificial Intelligence (Trí tuệ nhân tạo), UIT
