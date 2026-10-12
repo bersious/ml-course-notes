@@ -10,11 +10,11 @@ Exercises are added session by session as they are completed.
 
 | Session | Topic | Status |
 |---------|-------|--------|
-| 02 | Simple Linear Regression | Coming soon |
+| 02 | Linear vs. Polynomial Regression (salary prediction) | [`Buoi2.ipynb`](./session-02-linear-regression/Buoi2.ipynb) |
 
 ## Running the Notebooks
 
-Each session folder contains its own notebook. To run locally:
+Each session folder contains its own notebook. Session 02 reads `Position_Salaries.csv`, which is provided with the course and not included here, so place it in the same folder before running. To run locally:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
